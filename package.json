@@ -1,6 +1,6 @@
 {
   "name": "@ng-bootstrap/ng-bootstrap",
-  "version": "$NG_BOOTSTRAP_VERSION",
+  "version": "18.1.0",
   "description": "Angular powered Bootstrap",
   "keywords": [
     "angular",
