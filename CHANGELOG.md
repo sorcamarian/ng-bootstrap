@@ -1,3 +1,21 @@
+# [19.0.0](https://github.com/ng-bootstrap/ng-bootstrap/compare/18.0.0...19.0.0) (2025-05-31)
+
+This release bumps minimum required versions to Angular `20.0.0` and Bootstrap `5.3.6`.
+
+### Bug Fixes
+
+* update dependencies to support Angular 20
+
+### Features
+
+* **compatibility:** Angular 20 support
+* **dependencies:** Bootstrap 5.3.6 compatibility
+
+### BREAKING CHANGES
+
+* minimum required versions are now Angular `20.0.0` and Bootstrap `5.3.6`
+
+
 # [18.0.0](https://github.com/ng-bootstrap/ng-bootstrap/compare/17.0.1...18.0.0) (2024-12-18)
 
 This release bumps minimum required versions to Angular `19.0.0`.
